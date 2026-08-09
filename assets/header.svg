@@ -1,0 +1,121 @@
+<svg width="1200" height="350" viewBox="0 0 1200 350" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#050505"/>
+    <stop offset="55%" stop-color="#160608"/>
+    <stop offset="100%" stop-color="#3b1205"/>
+  </linearGradient>
+
+  <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#ff2b2b"/>
+    <stop offset="50%" stop-color="#ff4d00"/>
+    <stop offset="100%" stop-color="#ff9d00"/>
+  </linearGradient>
+
+  <radialGradient id="glow">
+    <stop offset="0%" stop-color="#ff3b00" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff3b00" stop-opacity="0"/>
+  </radialGradient>
+
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+  </pattern>
+
+  <filter id="blur">
+    <feGaussianBlur stdDeviation="25"/>
+  </filter>
+
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="350" rx="24" fill="url(#bg)"/>
+
+<!-- Grid -->
+<rect width="1200" height="350" rx="24" fill="url(#grid)"/>
+
+<!-- Glow -->
+<circle cx="1050" cy="80" r="230" fill="url(#glow)" filter="url(#blur)"/>
+<circle cx="120" cy="300" r="180" fill="url(#glow)" filter="url(#blur)"/>
+
+<!-- Decorative lines -->
+<path d="M0 300 L350 180 L550 220 L1200 40"
+      fill="none"
+      stroke="url(#accent)"
+      stroke-width="2"
+      stroke-opacity="0.35"/>
+
+<path d="M0 315 L350 195 L550 235 L1200 55"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="1"
+      stroke-opacity="0.08"/>
+
+<!-- Accent bar -->
+<rect x="80" y="82" width="8" height="105" rx="4" fill="url(#accent)"/>
+
+<!-- Small system label -->
+<text x="115" y="95"
+      fill="#ff6b35"
+      font-family="monospace"
+      font-size="15"
+      letter-spacing="4">
+  SYSTEM ONLINE
+</text>
+
+<!-- Main name -->
+<text x="110" y="155"
+      fill="#ffffff"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="55"
+      font-weight="700"
+      letter-spacing="2">
+  DIPAYAN ROY
+</text>
+
+<!-- Subtitle -->
+<text x="115" y="190"
+      fill="#cfcfcf"
+      font-family="monospace"
+      font-size="18"
+      letter-spacing="2">
+  MINECRAFT DEVELOPER  •  BUILDER  •  CREATOR
+</text>
+
+<!-- Bottom information -->
+<text x="115" y="250"
+      fill="#888888"
+      font-family="monospace"
+      font-size="14">
+  &gt; BUILDING DIGITAL EXPERIENCES
+</text>
+
+<text x="115" y="275"
+      fill="#888888"
+      font-family="monospace"
+      font-size="14">
+  &gt; MINECRAFT • WEB • INFRASTRUCTURE
+</text>
+
+<!-- Status -->
+<circle cx="1040" cy="275" r="7" fill="#22c55e"/>
+
+<text x="1060" y="281"
+      fill="#aaaaaa"
+      font-family="monospace"
+      font-size="13">
+  ONLINE
+</text>
+
+<!-- Border -->
+<rect x="1.5" y="1.5"
+      width="1197"
+      height="347"
+      rx="24"
+      fill="none"
+      stroke="url(#accent)"
+      stroke-opacity="0.35"
+      stroke-width="3"/>
+
+</svg>
