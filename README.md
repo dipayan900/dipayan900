@@ -432,7 +432,7 @@ Project Building
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://dipayansportfolio.site">
+<a href="https://dipayanportfolios.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
