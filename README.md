@@ -1,12 +1,16 @@
 <div align="center">
 
-# DIPAYAN ROY
-
-### Minecraft Developer • Web Developer • Builder
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f1d1d,100:f97316&height=220&section=header&text=DIPAYAN%20ROY&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Minecraft%20Developer%20%7C%20Web%20Developer%20%7C%20Builder&descAlignY=62&descSize=18&animation=fadeIn">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Building+Minecraft+Experiences;Developing+Web+%26+Discord+Systems;Creating+PhoenixLauncher;Running+Nubilux+Infrastructure" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=F97316&center=true&vCenter=true&width=650&lines=Building+Minecraft+Experiences;Creating+PhoenixLauncher;Developing+Web+%26+Discord+Systems;Building+Nubilux+Infrastructure;Turning+Ideas+Into+Real+Projects" alt="Typing SVG">
+
+<br><br>
+
+<a href="https://github.com/dipayan900">
+<img src="https://img.shields.io/badge/GitHub-dipayan900-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
+</a>
 
 <br><br>
 
@@ -14,24 +18,73 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **Dipayan Roy**, a developer focused on building Minecraft
-projects, web applications, Discord systems and server infrastructure.
+> **Developer • Minecraft Enthusiast • Builder**
 
-I enjoy turning ideas into real projects — from Minecraft networks
-and custom launchers to websites, bots and backend systems.
+I'm **Dipayan Roy**, a developer who enjoys creating Minecraft
+systems, web projects, Discord applications and server infrastructure.
+
+I'm particularly interested in turning ideas into complete,
+working projects — from the first line of code to deployment.
 
 ---
 
-## 🚀 What I Build
+## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🎮 **PhoenixLauncher** | Custom Minecraft launcher project |
-| ☁️ **Nubilux** | Minecraft hosting & infrastructure |
-| ⚔️ **Farlands** | Minecraft multiplayer network |
-| 🛠️ **DevKrew** | Development & digital projects |
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎮 PhoenixLauncher
+
+A custom Minecraft launcher project focused on creating a powerful and convenient Minecraft experience.
+
+**Launcher • Minecraft • Development**
+
+</td>
+
+<td width="50%">
+
+### ☁️ Nubilux
+
+Minecraft hosting and infrastructure focused on providing reliable server environments.
+
+**Hosting • Infrastructure • Minecraft**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚔️ Farlands
+
+A Minecraft multiplayer network featuring custom gameplay systems and server experiences.
+
+**Minecraft • Multiplayer • Server Development**
+
+</td>
+
+<td width="50%">
+
+### 🛠️ DevKrew
+
+A development-focused project covering websites, Discord systems and Minecraft development.
+
+**Development • Web • Discord**
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -39,19 +92,35 @@ and custom launchers to websites, bots and backend systems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,git,github,vscode&perline=8">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,mysql,mongodb,discord&perline=8">
 
 </div>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipayan900&show_icons=true&theme=dark&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=dipayan900&show_icons=true&theme=dark&hide_border=true&rank_icon=github">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipayan900&layout=compact&theme=dark&hide_border=true" height="170">
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipayan900&layout=compact&theme=dark&hide_border=true">
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%">
 
 </div>
 
@@ -61,7 +130,13 @@ and custom launchers to websites, bots and backend systems.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipayan900)
+<a href="https://github.com/dipayan900">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://dipayansportfolio.site">
+<img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 </div>
 
@@ -69,6 +144,6 @@ and custom launchers to websites, bots and backend systems.
 
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f1d1d,100:f97316&height=120&section=footer">
 
 </div>
