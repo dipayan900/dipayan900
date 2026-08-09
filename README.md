@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f1d1d,100:f97316&height=220&section=header&text=DIPAYAN%20ROY&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Minecraft%20Developer%20%7C%20Web%20Developer%20%7C%20Builder&descAlignY=62&descSize=18&animation=fadeIn">
+<img src="./assets/header.svg" width="100%" alt="Dipayan Roy">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=F97316&center=true&vCenter=true&width=650&lines=Building+Minecraft+Experiences;Creating+PhoenixLauncher;Developing+Web+%26+Discord+Systems;Building+Nubilux+Infrastructure;Turning+Ideas+Into+Real+Projects" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2500&pause=700&color=F97316&center=true&vCenter=true&width=650&lines=Building+Minecraft+Experiences;Creating+PhoenixLauncher;Developing+Web+%26+Discord+Systems;Building+Nubilux+Infrastructure" alt="Typing SVG">
 
 <br><br>
 
