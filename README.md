@@ -262,6 +262,73 @@ Development ecosystem for web, Discord and Minecraft-related projects.
 </div>
 ___
 
+## 🖥️ System Status
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### DEVELOPMENT
+
+🟢 **Minecraft Development**  
+`ACTIVE`
+
+🟢 **Web Development**  
+`ACTIVE`
+
+🟡 **Launcher Development**  
+`BUILDING`
+
+</td>
+
+<td width="50%">
+
+### INFRASTRUCTURE
+
+🟢 **Nubilux**  
+`ACTIVE`
+
+🟢 **Farlands**  
+`ACTIVE`
+
+🟡 **DevKrew**  
+`BUILDING`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&logo=statuspage&logoColor=white">
+<img src="https://img.shields.io/badge/FOCUS-MINECRAFT%20%26%20WEB-F97316?style=for-the-badge">
+<img src="https://img.shields.io/badge/LOCATION-INDIA-7C3AED?style=for-the-badge">
+
+</div>
+
+---
+
+## 🧩 Development Focus
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│              CURRENT FOCUS                   │
+├──────────────────────────────────────────────┤
+│                                              │
+│  [01] Minecraft Development                  │
+│  [02] Server Infrastructure                  │
+│  [03] Launcher Development                  │
+│  [04] Web Development                       │
+│  [05] Discord Systems                        │
+│                                              │
+└──────────────────────────────────────────────┘
+
+___
+
 ## ⚙️ Tech Stack
 
 <div align="center">
