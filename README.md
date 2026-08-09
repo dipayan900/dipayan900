@@ -37,23 +37,39 @@ working projects — from the first line of code to deployment.
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🎮 PhoenixLauncher
 
-A custom Minecraft launcher project focused on creating a powerful and convenient Minecraft experience.
+<img src="https://img.shields.io/badge/MINECRAFT-LAUNCHER-8B0000?style=for-the-badge&logo=minecraft&logoColor=white">
 
-**Launcher • Minecraft • Development**
+<br><br>
+
+A custom Minecraft launcher project designed around a clean interface, customization and an improved Minecraft experience.
+
+<br><br>
+
+<a href="https://github.com/dipayan900">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF6B00?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### ☁️ Nubilux
 
-Minecraft hosting and infrastructure focused on providing reliable server environments.
+<img src="https://img.shields.io/badge/HOSTING-INFRASTRUCTURE-8B0000?style=for-the-badge&logo=cloudflare&logoColor=white">
 
-**Hosting • Infrastructure • Minecraft**
+<br><br>
+
+Minecraft hosting and infrastructure focused on server management, performance and reliable environments.
+
+<br><br>
+
+<a href="https://github.com/dipayan900">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF6B00?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
@@ -61,23 +77,39 @@ Minecraft hosting and infrastructure focused on providing reliable server enviro
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### ⚔️ Farlands
 
-A Minecraft multiplayer network featuring custom gameplay systems and server experiences.
+<img src="https://img.shields.io/badge/MINECRAFT-NETWORK-8B0000?style=for-the-badge&logo=minecraft&logoColor=white">
 
-**Minecraft • Multiplayer • Server Development**
+<br><br>
+
+A multiplayer Minecraft network featuring custom gameplay, server systems and a unique player experience.
+
+<br><br>
+
+<a href="https://github.com/dipayan900">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF6B00?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🛠️ DevKrew
 
-A development-focused project covering websites, Discord systems and Minecraft development.
+<img src="https://img.shields.io/badge/DEVELOPMENT-WEB%20%26%20DISCORD-8B0000?style=for-the-badge&logo=github&logoColor=white">
 
-**Development • Web • Discord**
+<br><br>
+
+A development ecosystem focused on websites, Discord systems, Minecraft projects and digital solutions.
+
+<br><br>
+
+<a href="https://github.com/dipayan900">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF6B00?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
@@ -85,6 +117,46 @@ A development-focused project covering websites, Discord systems and Minecraft d
 </table>
 
 </div>
+
+---
+
+## 🔍 Explore My Work
+
+<details>
+<summary><b>🎮 Minecraft Development</b></summary>
+
+<br>
+
+Minecraft server development, plugins, gameplay systems, infrastructure and custom server experiences.
+
+</details>
+
+<details>
+<summary><b>🌐 Web Development</b></summary>
+
+<br>
+
+Websites, dashboards, landing pages and web-based tools.
+
+</details>
+
+<details>
+<summary><b>🤖 Discord Development</b></summary>
+
+<br>
+
+Discord bots, community systems, automation and server management tools.
+
+</details>
+
+<details>
+<summary><b>⚙️ Infrastructure</b></summary>
+
+<br>
+
+Server hosting, deployment, configuration and Minecraft infrastructure.
+
+</details>
 
 ---
 
