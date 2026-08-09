@@ -160,6 +160,108 @@ Server hosting, deployment, configuration and Minecraft infrastructure.
 
 ---
 
+## 🛰️ Currently Building
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🎮 PhoenixLauncher
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-F97316?style=for-the-badge">
+
+<br><br>
+
+Building a custom Minecraft launcher with a focus on customization, usability and Minecraft compatibility.
+
+<br><br>
+
+**Progress**
+
+████████░░ 80%
+
+</td>
+
+<td width="50%" align="center">
+
+### ☁️ Nubilux
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge">
+
+<br><br>
+
+Minecraft hosting and infrastructure focused on server deployment, management and performance.
+
+<br><br>
+
+**Status**
+
+● Online & Developing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### ⚔️ Farlands
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge">
+
+<br><br>
+
+Minecraft multiplayer project focused on custom gameplay, server systems and community experience.
+
+<br><br>
+
+**Status**
+
+● Active Development
+
+</td>
+
+<td width="50%" align="center">
+
+### 🛠️ DevKrew
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-F97316?style=for-the-badge">
+
+<br><br>
+
+Development ecosystem for web, Discord and Minecraft-related projects.
+
+<br><br>
+
+**Status**
+
+● Building
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧠 What I'm Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Web-Development-1572B6?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Server-Infrastructure-7C3AED?style=for-the-badge&logo=linux&logoColor=white">
+
+</div>
+___
+
 ## ⚙️ Tech Stack
 
 <div align="center">
