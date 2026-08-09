@@ -8,6 +8,32 @@
 
 <br><br>
 
+<div align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/ABOUT%20ME-18181B?style=for-the-badge&logo=readme&logoColor=white">
+</a>
+&nbsp;
+<a href="#featured-projects">
+<img src="https://img.shields.io/badge/PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="#currently-building">
+<img src="https://img.shields.io/badge/BUILDING-18181B?style=for-the-badge&logo=rocket&logoColor=white">
+</a>
+&nbsp;
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/TECH%20STACK-18181B?style=for-the-badge&logo=code&logoColor=white">
+</a>
+&nbsp;
+<a href="#connect-with-me">
+<img src="https://img.shields.io/badge/CONTACT-18181B?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
 <a href="https://github.com/dipayan900">
 <img src="https://img.shields.io/badge/GitHub-dipayan900-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
 </a>
