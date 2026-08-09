@@ -445,3 +445,25 @@ Project Building
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f1d1d,100:f97316&height=120&section=footer">
 
 </div>
+
+## 💬 Discord Communities
+
+<div align="center">
+
+<a href="https://discord.gg/ygueQGz4zZ">
+<img src="https://img.shields.io/badge/DISCORD-DevKrew-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="https://discord.gg/nr3YvCM4FT">
+<img src="https://img.shields.io/badge/DISCORD-Farlands-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="https://discord.gg/5uuCPRsz3T">
+<img src="https://img.shields.io/badge/DISCORD-Nubilux-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+
+<a href="https://discord.gg/rzQZ9F3P5d">
+<img src="https://img.shields.io/badge/DISCORD-PhoenixLauncher-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+
+</a>
+
+</div>
