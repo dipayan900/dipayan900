@@ -308,26 +308,57 @@ ___
 
 </div>
 
----
-
 ## 🧩 Development Focus
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────┐
-│              CURRENT FOCUS                   │
-├──────────────────────────────────────────────┤
-│                                              │
-│  [01] Minecraft Development                  │
-│  [02] Server Infrastructure                  │
-│  [03] Launcher Development                  │
-│  [04] Web Development                       │
-│  [05] Discord Systems                        │
-│                                              │
-└──────────────────────────────────────────────┘
+<table>
+<tr>
+<td align="center">
 
-___
+<b>01</b><br>
+Minecraft Development
+
+</td>
+<td align="center">
+
+<b>02</b><br>
+Server Infrastructure
+
+</td>
+<td align="center">
+
+<b>03</b><br>
+Launcher Development
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>04</b><br>
+Web Development
+
+</td>
+<td align="center">
+
+<b>05</b><br>
+Discord Systems
+
+</td>
+<td align="center">
+
+<b>06</b><br>
+Project Building
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## ⚙️ Tech Stack
 
