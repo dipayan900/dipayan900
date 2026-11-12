@@ -464,6 +464,8 @@ Project Building
 <a href="https://discord.gg/rzQZ9F3P5d">
 <img src="https://img.shields.io/badge/DISCORD-PhoenixLauncher-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
+<a href="https://www.youtube.com/@Brutal_XD-1?sub_confirmation=1" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#cc0000;color:#ffffff;font:600 15px/1.2 Arial,Helvetica,sans-serif;text-decoration:none">&#9654; Subscribe on YouTube</a>
+
 </a>
 
 </div>
